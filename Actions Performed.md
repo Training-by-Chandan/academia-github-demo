@@ -49,3 +49,5 @@ Actions Performed:
     git log --online
 - Finally push locally merged to origin
     git push origin _chandan
+
+-GUI setup to protect branches
